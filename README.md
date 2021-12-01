@@ -1,4 +1,4 @@
-# ultraasound-experiments
+# ultrasound-experiments
 
 Repo containing exploratory code for analyzing medical ultrasound images.  This is currently in early development phases and may not work.
 
